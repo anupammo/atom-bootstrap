@@ -1,0 +1,11 @@
+{
+  "name": "atom-bootstrap-KDB",
+  "version": "0.0.1",
+  "description": "Hopefully the best atom snippets for Bootstrap",
+  "repository": "https://github.com/kevdotbadger/atom-bootstrap",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {}
+}

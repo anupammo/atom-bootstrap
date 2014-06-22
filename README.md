@@ -1,2 +1,1 @@
-atom-bootstrap
-==============
+Atom Bootstrap Snippet Set
