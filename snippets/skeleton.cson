@@ -32,7 +32,7 @@
       </div>
     """
 
-  "Boostrap Container":
+  "Boostrap Fluid Container":
     "prefix":"containerfluidbs"
     "body":"""
       <div class='container-fluid${1: }'>
@@ -42,7 +42,7 @@
       </div>
     """
 
-  "Bootstrap Columns":
+  "Bootstrap Column":
     "prefix":"colbs"
     "body":"""
       <div class='col-lg-${1:12} col-md-${2:12} col-sm-${3:12} col-xs-${4:12}${5: }'>
